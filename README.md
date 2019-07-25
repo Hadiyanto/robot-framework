@@ -32,3 +32,4 @@ robot -d ./report tests/DetikTest.robot
 
 ## EOT7
 ## EOT8
+## EOT9
