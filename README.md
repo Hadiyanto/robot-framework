@@ -21,3 +21,5 @@ robot -d ./report tests/DetikTest.robot
 ## EOT1
 
 ## EOT2
+
+## EOT3
