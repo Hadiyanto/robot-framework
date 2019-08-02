@@ -21,4 +21,6 @@ robot -d ./report tests/DetikTest.robot
 
 ## TEST 1
 
+## TEST 2
+
 
