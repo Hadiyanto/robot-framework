@@ -17,19 +17,3 @@ robot -d ./report tests/DetikTest.robot
 ```
 
 ## TEST
-## EOT
-## EOT1
-
-## EOT2
-
-## EOT3
-
-## EOT4
-
-## EOT5
-
-## EOT6
-
-## EOT7
-## EOT8
-## EOT9
